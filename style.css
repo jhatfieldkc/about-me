@@ -1,0 +1,38 @@
+body {
+    background-color:black;
+    font-family: 'Asap', sans-serif;
+}
+#container {
+    background-color: white;
+    color: black;
+    width: 50%;
+    padding: 20px;
+    margin: 20px auto 0 auto;
+}
+.left-col {
+    float: left;
+}
+.right-col {
+    float: right;
+}
+h1 {
+    color: #A64AC9;
+}
+.clearfix {
+    clear: both;
+}
+#github {
+    color: #A64AC9;
+    text-decoration: none;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.mepic {
+    width: 300px;
+}
+.purple {
+    color: #A64AC9;
+}
