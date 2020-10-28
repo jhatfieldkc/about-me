@@ -11,11 +11,9 @@ body {
 }
 .left-col {
     float: left;
-    width: 48%;
 }
 .right-col {
     float: right;
-    width: 48%;
 }
 h1 {
     color: #A64AC9;
@@ -23,7 +21,7 @@ h1 {
 .clearfix {
     clear: both;
 }
-a {
+#github {
     color: #A64AC9;
     text-decoration: none;
     border-style: solid;
@@ -33,5 +31,8 @@ a {
     display: inline-block;
 }
 .mepic {
-    width: 200px;
+    width: 300px;
+}
+.purple {
+    color: #A64AC9;
 }
