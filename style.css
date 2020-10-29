@@ -11,9 +11,11 @@ body {
 }
 .left-col {
     float: left;
+    width: 48%;
 }
 .right-col {
     float: right;
+    width: 48%;
 }
 h1 {
     color: #A64AC9;
